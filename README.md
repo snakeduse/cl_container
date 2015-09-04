@@ -1,4 +1,4 @@
-# cl_container
+# Common List in Docker container
 
 docker build -t poms .
 
